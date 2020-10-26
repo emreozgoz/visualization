@@ -1,5 +1,5 @@
 # VISUALIZATION
 
-My visualization portfoy
+My visualization portfolio
 
 
